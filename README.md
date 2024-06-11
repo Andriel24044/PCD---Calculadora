@@ -1,2 +1,2 @@
 # PCD---Calculadora
-calculadora de perda de intensidade em microfibras oticas
+calculadora de perda de intensidade em microfibras oticas.
